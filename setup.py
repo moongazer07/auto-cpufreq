@@ -1,3 +1,5 @@
+#edited by moongazer07
+
 import os
 
 from setuptools import setup
@@ -17,6 +19,7 @@ setup(
     long_description=readme,
     author='Adnan Hodzic',
     author_email='adnan@hodzic.org',
+    author_discord='Infinity#2354'
     url='https://github.com/AdnanHodzic/auto-cpufreq',
     packages=['auto_cpufreq'],
     install_requires=read('requirements.txt'),
